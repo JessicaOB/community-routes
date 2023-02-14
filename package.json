@@ -1,7 +1,7 @@
 {
   "name": "community-routes",
   "version": "1.0.0",
-  "description": "",
+  "description": "nosql social network back-end",
   "main": "index.js",
   "scripts": {
     "seed": "node seeds/seed",
