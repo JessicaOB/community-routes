@@ -15,7 +15,7 @@ const addDateSuffix = (date) => {
   
     return dateStr;
   };
-
+//This is all copied and pasted from a class activity, but I hope that's ok since I do understand how to implement it
   module.exports = (
     timestamp,
     { monthLength = 'short', dateSuffix = true } = {}
